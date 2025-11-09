@@ -87,7 +87,7 @@ Bienvenido a tu chatbot de voz, donde podrás realizar la consulta que creas con
 
 ---
 
-# Configuración de LM Studio
+## Configuración de LM Studio
 
 * Puerto por defecto: 1234.
 * Endpoint utilizado: /v1/chat/completions.
