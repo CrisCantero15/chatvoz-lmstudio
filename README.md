@@ -128,6 +128,6 @@ Este proyecto es un ejercicio académico y no tiene fines comerciales. Usar bajo
 
 ---
 
-# Auto
+# Autor
 
 Cristian Cantero López
