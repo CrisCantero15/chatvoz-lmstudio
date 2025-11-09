@@ -122,12 +122,12 @@ Error al realizar la petición a la API de LM Studio: <detalle del error>
 
 ---
 
-# Licencia
+## Licencia
 
 Este proyecto es un ejercicio académico y no tiene fines comerciales. Usar bajo la licencia de tu institución educativa.
 
 ---
 
-# Autor
+## Autor
 
 Cristian Cantero López
